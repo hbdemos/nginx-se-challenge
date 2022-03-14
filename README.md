@@ -17,7 +17,7 @@ Be prepared to present your demo environment and articulate the value of NGINX P
 
 This demo has two components, an NGINX Plus ADC/load balancer (`nginx-plus`) and webservers (`nginx1` and `nginx2`):
 
- * **NGINX Plus** `(Latest)` is based on centos 7. [NGINX Plus Documentation](https://docs.nginx.com/nginx/) and [resources](https://www.nginx.com/resources/) and [blog](https://www.nginx.com/blog/) is your best source of information for technical help. Detailed examples are found on the internet too!
+ * **NGINX Plus** `(Latest)` is based on centos 7. [NGINX Plus Documentation](https://docs.nginx.com/nginx/) and [resources](https://www.nginx.com/resources/) and [blog](https://www.nginx.com/blog/) and [cookbook](https://www.nginx.com/resources/library/complete-nginx-cookbook/) is your best source of information for technical help. Detailed examples are found on the internet too!
 
  * [**nginx-hello**](https://github.com/nginxinc/NGINX-Demos/tree/master/nginx-hello). An NGINX webserver that serves a simple page containing its hostname, IP address and port, and the request URI and the local time of the webserver.
 
